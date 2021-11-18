@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5839667.chunk.css",
+    "main.js": "/static/js/main.d5f4975a.chunk.js",
+    "main.js.map": "/static/js/main.d5f4975a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8adfab15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8adfab15.js.map",
+    "static/js/2.8c2320b6.chunk.js": "/static/js/2.8c2320b6.chunk.js",
+    "static/js/2.8c2320b6.chunk.js.map": "/static/js/2.8c2320b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e5839667.chunk.css.map": "/static/css/main.e5839667.chunk.css.map",
+    "static/js/2.8c2320b6.chunk.js.LICENSE.txt": "/static/js/2.8c2320b6.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/static/media/illustration-hero.73032583.svg",
+    "static/media/index.scss": "/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8adfab15.js",
+    "static/js/2.8c2320b6.chunk.js",
+    "static/css/main.e5839667.chunk.css",
+    "static/js/main.d5f4975a.chunk.js"
+  ]
+}
