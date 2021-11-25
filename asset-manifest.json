@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.c87de90e.chunk.css",
-    "main.js": "./static/js/main.d5f4975a.chunk.js",
-    "main.js.map": "./static/js/main.d5f4975a.chunk.js.map",
+    "main.css": "./static/css/main.c9ac80b6.chunk.css",
+    "main.js": "./static/js/main.df793d87.chunk.js",
+    "main.js.map": "./static/js/main.df793d87.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5f546796.js",
     "runtime-main.js.map": "./static/js/runtime-main.5f546796.js.map",
     "static/js/2.c7466eb2.chunk.js": "./static/js/2.c7466eb2.chunk.js",
     "static/js/2.c7466eb2.chunk.js.map": "./static/js/2.c7466eb2.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.c87de90e.chunk.css.map": "./static/css/main.c87de90e.chunk.css.map",
+    "static/css/main.c9ac80b6.chunk.css.map": "./static/css/main.c9ac80b6.chunk.css.map",
     "static/js/2.c7466eb2.chunk.js.LICENSE.txt": "./static/js/2.c7466eb2.chunk.js.LICENSE.txt",
     "static/media/icon-music.f20c7787.svg": "./static/media/icon-music.f20c7787.svg",
     "static/media/illustration-hero.73032583.svg": "./static/media/illustration-hero.73032583.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.5f546796.js",
     "static/js/2.c7466eb2.chunk.js",
-    "static/css/main.c87de90e.chunk.css",
-    "static/js/main.d5f4975a.chunk.js"
+    "static/css/main.c9ac80b6.chunk.css",
+    "static/js/main.df793d87.chunk.js"
   ]
 }
